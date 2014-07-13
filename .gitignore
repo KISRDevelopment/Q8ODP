@@ -1,3 +1,4 @@
 # Ignore the iPython Notebook checkpoints
 
 .ipynb_checkpoints/
+.ropeproject
